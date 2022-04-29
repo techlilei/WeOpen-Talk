@@ -2,6 +2,8 @@
 
 | 期数 |      嘉宾       | Title                                                        | 标题                                                         |
 | :--: | :-------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|  15  |     卫剑钒      | 《大教堂与集市》中文版译者 | [卫剑钒：《大教堂与集市》被过誉了吗？](https://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&mid=2247493985&idx=1&sn=2583ffd067273c9c10b90563e245f8bc&chksm=c1cbc9e5f6bc40f3228801748d06fab5edd008a4992b9a3b01322ea9719e1b035baea61d25e1#rd)|
+|  14  |     刘天栋      | 开源社联合创始人、Apache 软件基金会 Member、腾讯云 TVP、腾源会导师 | [刘天栋：开源是打破内卷的最好方式](https://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&mid=2247493627&idx=1&sn=16dbdd2f726e2d83afe82e27f9c77c36&chksm=c1cbc77ff6bc4e69b1d30fe4fb621ef690f080ee2fe1b6e6d931189ba66576ebca01a43272f6#rd) |
 |  13  |     谭中意      | 开放原子开源基金会的 TOC 副主席、Apache 基金会member、国际开源合规标准 OpenChain 中国 workgroup 联合创始人，国际内部开源基金会成员 | [谭中意：玩魔兽、爱做饭、看毛选，而我是个开源人](https://mp.weixin.qq.com/s/BDUCACg0UKmd_2Dcdmlu6Q) |
 |  12  |     宋可为      | 北京初心使命软件有限公司总经理、北京开源创新委员会常务副主任秘书长、中国开源软件推进联盟副秘书长 | [宋可为：做二十年开源，是一种什么样的体验？](https://mp.weixin.qq.com/s/gJKvv2jvj6bkQED_xmdE7Q) |
 |  11  |      李凌       | Apache APISIX PMC 成员、Shopify 中国区首位工程师             | [李凌：6 年，我如何从开源小白成为 Apache 顶级项目 PMC](https://mp.weixin.qq.com/s/-IjC66J4TPw0H14RvNBT5w) |
